@@ -1,5 +1,5 @@
 import 'package:event_book/application/providers/event_list_provider.dart';
-import 'package:event_book/presentation/screens/splash/splash_screen.dart';
+import 'package:event_book/presentation/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

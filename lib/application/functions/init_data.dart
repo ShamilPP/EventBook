@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../presentation/screens/home/home_screen.dart';
+import '../../presentation/screens/home_screen.dart';
 
 void initData(BuildContext ctx) async {
   // check permission, if permission denied show dialog
